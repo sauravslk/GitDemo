@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/rest assured jar file/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/rest assured jar file/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/rest assured jar file/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/rest assured jar file/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/rest assured jar file/groovy-json-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/rest assured jar file/groovy-xml-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/rest assured jar file/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/rest assured jar file/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/rest assured jar file/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/rest assured jar file/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/rest assured jar file/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/rest assured jar file/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/rest assured jar file/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/rest assured jar file/json-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/rest assured jar file/rest-assured-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/rest assured jar file/rest-assured-common-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/rest assured jar file/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/rest assured jar file/xml-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/Other JAR files/json-path-4.3.3-javadoc.jar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/Other JAR files/json-schema-validator-4.3.3-javadoc.jar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/Other JAR files/rest-assured-4.3.3-javadoc.jar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/Other JAR files/spring-mock-mvc-4.3.3-javadoc.jar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/Other JAR files/spring-web-test-client-4.3.3-javadoc.jar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/Other JAR files/xml-path-4.3.3-javadoc.jar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/jar_files(scala)/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/jar_files(scala)/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/jar_files(scala)/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/jar_files(scala)/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/jar_files(scala)/groovy-json-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/jar_files(scala)/groovy-xml-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/jar_files(scala)/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/jar_files(scala)/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/jar_files(scala)/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/jar_files(scala)/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/jar_files(scala)/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/jar_files(scala)/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/jar_files(scala)/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/jar_files(scala)/json-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/jar_files(scala)/rest-assured-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/jar_files(scala)/rest-assured-common-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/jar_files(scala)/scala-library-2.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/jar_files(scala)/scala-support-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/jar_files(scala)/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/jar_files(scala)/xml-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sraboni/Desktop/REST Assured and Rest APIs/testng-7.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium-server-4.0.0-beta-3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/jar_files(scala)/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/jar_files(scala)/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/jar_files(scala)/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/jar_files(scala)/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/jar_files(scala)/groovy-json-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/jar_files(scala)/groovy-xml-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/jar_files(scala)/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/jar_files(scala)/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/jar_files(scala)/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/jar_files(scala)/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/jar_files(scala)/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/jar_files(scala)/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/jar_files(scala)/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/jar_files(scala)/json-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/jar_files(scala)/rest-assured-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/jar_files(scala)/rest-assured-common-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/jar_files(scala)/scala-library-2.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/jar_files(scala)/scala-support-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/jar_files(scala)/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/jar_files(scala)/xml-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/rest assured jar file/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/rest assured jar file/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/rest assured jar file/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/rest assured jar file/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/rest assured jar file/groovy-json-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/rest assured jar file/groovy-xml-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/rest assured jar file/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/rest assured jar file/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/rest assured jar file/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/rest assured jar file/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/rest assured jar file/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/rest assured jar file/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/rest assured jar file/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/rest assured jar file/json-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/rest assured jar file/rest-assured-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/rest assured jar file/rest-assured-common-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/rest assured jar file/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/rest assured jar file/xml-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/Other JAR files/json-path-4.3.3-javadoc.jar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/Other JAR files/json-schema-validator-4.3.3-javadoc.jar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/Other JAR files/rest-assured-4.3.3-javadoc.jar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/Other JAR files/spring-mock-mvc-4.3.3-javadoc.jar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/Other JAR files/spring-web-test-client-4.3.3-javadoc.jar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/REST Assured and Rest APIs/Other JAR files/xml-path-4.3.3-javadoc.jar.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
